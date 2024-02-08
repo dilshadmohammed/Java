@@ -1,0 +1,1 @@
+sample string for java file operation
