@@ -72,7 +72,7 @@ class Matrix {
             else{
                 for(int i=0; i<R1 ; i++){
                     for(int j=0; j<C2; j++){
-                        for(int k=0 ; k<R1; k++){
+                        for(int k=0 ; k<R2; k++){
                             result[i][j] += arr[i][k]*B.arr[k][j];
                         }
                     }
